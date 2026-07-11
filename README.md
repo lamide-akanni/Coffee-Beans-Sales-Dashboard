@@ -6,7 +6,7 @@ An interactive Excel Dashboard analysing coffee order data.
 
 **Data-analyst skills:** lookups, conditional logic, PivotTables, PivotCharts, and interactive filtering.
 
-**Data Set:** - Repo
+Data and Excel Sheet - Repo.
 
 **Insight(s):** 
 
