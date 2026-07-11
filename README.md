@@ -5,6 +5,7 @@ An interactive Excel Dashboard analysing coffee order data.
 ![Dashboard preview](CDB.png)
 
 **Data-analyst skills:** lookups, conditional logic, PivotTables, PivotCharts, and interactive filtering.
+
 **Data Set:** - Repo
 
 **Insight(s):** The United States drives roughly **79%** of total revenue - more than **5x** Ireland and UK combined.
