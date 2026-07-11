@@ -17,4 +17,4 @@ The United States drives roughly **79%** of total revenue - more than **5x** Ire
 
 
 
-PS: Project concept and dataset - Mo Chen's Excel Portfolio Project.
+PS; Project concept and dataset - Mo Chen's Excel Portfolio Project.
