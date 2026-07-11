@@ -8,6 +8,8 @@ An interactive Excel Dashboard analysing coffee order data.
 
 Data and Excel Sheet - Repo.
 
+![Excel preview](EXL.png)
+
 **Insight(s):** 
 
 The United States drives roughly **79%** of total revenue - more than **5x** Ireland and UK combined.
