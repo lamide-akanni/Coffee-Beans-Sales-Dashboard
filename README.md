@@ -1,5 +1,5 @@
 # Coffee-Beans-Sales-Dashboard
-
+ 
 An interactive Excel dashboard that transforms raw coffee order data into live business metrics. This project demonstrates core data-analysis skills applied to a real sales dataset, complete with dynamic filtering and visualization.
 
 ![Dashboard preview](CDB.png)
